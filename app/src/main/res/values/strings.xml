@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TaskTimer</string>
+    <string name="str_hint_title">Title</string>
+    <string name="str_hint_desc">Desc</string>
+    <string name="str_submit">Submit</string>
+    <string name="txt_ok">Ok</string>
+    <string name="str_newtask">New Task</string>
+    <string name="str_start">Start</string>
+    <string name="str_reset">Reset</string>
+    <string name="place_holder_time">00:00:00</string>
+    <string name="str_stop">Pause</string>
+</resources>
